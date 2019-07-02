@@ -14,7 +14,7 @@ This is empty on purpose! Your code to build the resume will go here.
  		},
  	"welcomeMessage": "Hello, this is my latest Resume!",
  	"skills" : ["Oracle Business Intelligence", "Javascript", "Jquery", "Oracle Database", "Vignette Content Management"],
- 	"biopic": "./images/Sow.jpg"
+ 	"biopic": "./images/Sow1.jpg"
 
  };
 
